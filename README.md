@@ -1,1 +1,1 @@
-# EHSNEWS.github.io
+# EHSNEWS
